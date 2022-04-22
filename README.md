@@ -8,3 +8,5 @@ You can access the wiki from the "[Wiki](https://github.com/Streamline-Essential
 
 # Maintainers
 @karkkijokeri / Sprisa#7436 at discord
+
+Check out [this page](https://github.com/orgs/Streamline-Essentials/teams) for more information about becoming maintainer!
