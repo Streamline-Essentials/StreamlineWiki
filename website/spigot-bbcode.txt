@@ -1,0 +1,118 @@
+
+
+Key Information
+See this.
+
+Introduction to Streamline
+
+[h3]What is Streamline?[/h3]
+Streamline or possibly known as StreamlineCore is a Minecraft Java Edition server plugin for both proxies and backend servers.
+
+Things we call "Modules" allow your server to have vast capabilities through this Core plugin.
+
+Modules, simply put, are plugins (like those for your Minecraft Server) but for StreamlineCore. Think of it like a house: the StreamlineCore is the foundation to the house and the Modules are things such as appliances or even rooms in the house.
+
+[h3]What makes Streamline special?[/h3]
+Streamline allows for universal cross-platform capabilities with its Modules.
+
+This essentially means you can run the same modules on a BungeeCord proxy that you would on a Velocity proxy (or even a Spigot or Paper backend server). This, coupled with the Modularized features means that you, the server admin, can choose exactly what you want in your server.
+
+This also makes it very simple for server to use a specific module across your servers, or even for Developers to develop modules for your server (or the community).
+
+[h3]What exactly is Streamline capable of?[/h3]
+Literally anything.
+
+[h4]Supported Proxies:[/h4]
+ * Velocity
+ * Bungeecord
+ * Waterfall
+ * Flamecord
+ * Travertine
+
+[h4]Supported Backend Servers:[/h4]
+ * Spigot.
+ * Paper.
+ * Purpur.
+ * Tuinity.
+
+[h4]Natively-Supported Plugins:[/h4]
+ * Luckperms.
+ * Geyser.
+ * PlaceholderAPI.
+
+
+
+Please join the Streamline Discord in order to get updates and for me to fully assist you with bugs, questions, or suggestions.
+
+Streamline Discord: click here
+
+
+
+MUST HAVE:
+- LuckPerms latest. [ FOUND HERE ]
+- Java 16 or higher. [ FOUND HERE ]
+  - NOTE: If you are using PebbleHost, you will need to install Java 16 a little different. There is an article on how to do this [ FOUND HERE ].
+
+
+
+Follow the Discord setup guide [ FOUND HERE ] to set up the discord module.
+
+What can I do with the Discord Module?
+- Link Discord to Minecraft and Minecraft to Discord with Routes.
+  - Available link types:
+    - Natively (Without other Modules):
+      - Proxy local chat <-> Discord Text Channel
+      - Proxy global chat <-> Discord Text Channel
+      - All online players with specific permission <-> Discord Text Channel
+      - Discord Text Channel <-> Discord Text Channel
+    - Groups (With StreamlineGroups Module):
+      - Guild chat <-> Discord Text Channel
+      - Party chat <-> Discord Text Channel
+    - Messaging (With StreamlineMessaging Module):
+      - Local Room chat <-> Discord Text Channel
+      - Global Room chat <-> Discord Text Channel
+      - Custom Room chat <-> Discord Text Channel
+  - Message formats are completely customizable.
+  - Avatar with player's skin will pop up when their message is sent to Discord.
+- Link player's Discord profile with your server.
+  - Players can chat using their StreamlineUser profile from Discord.
+- All Discord messages can be configured to be sent as completely customized Discord embedded messages
+
+
+
+[h3]NOTICE ABOUT COMMANDS[/h3]
+All commands are completely customizable in their .yml file.
+
+[h3]NOTICE ABOUT PERMISSIONS[/h3]
+All permissions are completely customizable in their command's .yml file.
+
+Command Syntax
+See this.
+
+Commands Provided by StreamlineCore
+See this.
+
+
+
+1. Download the plugin file.
+2. Drop it into your server's plugins folder.
+3. Start and stop your server.
+4. Fill out the configs where necessary.
+   - Configurations for the streamline plugin can be found in your plugins folder, under StreamlineAPI (or streamlineapi if using Velocity).
+5. Add desired modules.
+   - Modules can be downloaded from here: click here
+6. Start and stop your server again.
+7. Fill out module configs where necessary.
+   - Module files can be found in your [code single]plugins[/code] folder, under StreamlineAPI (or streamlineapi if using Velocity), under module-resources.
+8. Start your server again.
+
+More information can be found on our wiki: click here
+
+
+
+1. Look on the wiki: click here
+2. Get in touch on the Streamline Discord: click here
+3. Submit a bug on the issue tracker (this is rarely checked): click here
+
+[h4]NOTICE ABOUT BUG REPORTS[/h4]
+The review section is not built or programmed in a way where I can effectively give you support. Please do the steps above to submit a bug. I am more than willing to help you, please just reach out first! If you do submit a bug in the review section, please at the very least update your review or write a new one when it gets fixed! Thank you!

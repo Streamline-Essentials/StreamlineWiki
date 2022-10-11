@@ -50,20 +50,20 @@ Literally *anything*.
 > * Geyser.
 > * PlaceholderAPI.
 
-![Discord](https://github.com/Streamline-Essentials/StreamlineAPI/blob/main/website/images/JoinTheDiscord.png?raw=true)
+![Discord](https://github.com/Streamline-Essentials/StreamlineWiki/blob/main/website/images/JoinTheDiscord.png?raw=true)
 
 **Please join the Streamline Discord in order to get updates and for me to fully assist you with bugs, questions, or suggestions.**
 
 Streamline Discord: [**click here**](https://dsc.gg/streamline)
 
-![Discord](https://github.com/Streamline-Essentials/StreamlineAPI/blob/main/website/images/Dependencies.png?raw=true)
+![Discord](https://github.com/Streamline-Essentials/StreamlineWiki/blob/main/website/images/Dependencies.png?raw=true)
 
 MUST HAVE:
 - LuckPerms latest. [**[ FOUND HERE ]**](https://luckperms.net/download)
 - Java **16 or higher**. [**[ FOUND HERE ]**](https://jdk.java.net/archive/)
   - **NOTE: *If you are using PebbleHost, you will need to install Java 16 a little different. There is an article on how to do this*** [**[ FOUND HERE ]**](https://help.pebblehost.com/en/minecraft/does-pebblehost-support-java-11-16-17-18)***.***
 
-![Discord](https://github.com/Streamline-Essentials/StreamlineAPI/blob/main/website/images/DiscordSetupHelp.png?raw=true)
+![Discord](https://github.com/Streamline-Essentials/StreamlineWiki/blob/main/website/images/DiscordSetupHelp.png?raw=true)
 
 Follow the Discord setup guide [**[ FOUND HERE ]**](https://github.com/Streamline-Essentials/StreamlineWiki/wiki/Discord-Setup) to set up the discord module.
 
@@ -88,7 +88,7 @@ Follow the Discord setup guide [**[ FOUND HERE ]**](https://github.com/Streamlin
   - Players can chat using their StreamlineUser profile from Discord.
 - All Discord messages can be configured to be sent as <u>completely customized Discord embedded messages</u>
 
-![Discord](https://github.com/Streamline-Essentials/StreamlineAPI/blob/main/website/images/CommandsAndPermissions.png?raw=true)
+![Discord](https://github.com/Streamline-Essentials/StreamlineWiki/blob/main/website/images/CommandsAndPermissions.png?raw=true)
 
 ### NOTICE ABOUT COMMANDS
 ***All commands are completely customizable in their `.yml` file.***
@@ -122,7 +122,7 @@ Follow the Discord setup guide [**[ FOUND HERE ]**](https://github.com/Streamlin
 | `/module <reload / reapply> (string...)`                  | Reloads or reapplies either all `Modules` or a specific set of `Modules`.                                                                                                                                                                                                        | `streamline.command.streamlinemodule.default`**:** allows access to full command. |
 
 
-![Discord](https://github.com/Streamline-Essentials/StreamlineAPI/blob/main/website/images/HowToInstall.png?raw=true)
+![Discord](https://github.com/Streamline-Essentials/StreamlineWiki/blob/main/website/images/HowToInstall.png?raw=true)
 
 1. Download the plugin file.
 2. Drop it into your server's plugins folder.
@@ -138,7 +138,7 @@ Follow the Discord setup guide [**[ FOUND HERE ]**](https://github.com/Streamlin
 
 More information can be found on our wiki: [**click here**](https://github.com/Streamline-Essentials/StreamlineWiki/wiki/Modules#installation)
 
-![Discord](https://github.com/Streamline-Essentials/StreamlineAPI/blob/main/website/images/NeedHelpSubmitBugs.png?raw=true)
+![Discord](https://github.com/Streamline-Essentials/StreamlineWiki/blob/main/website/images/NeedHelpSubmitBugs.png?raw=true)
 
 1. Look on the wiki: [**click here**](https://github.com/Streamline-Essentials/StreamlineWiki/wiki)
 2. Get in touch on the Streamline Discord: [**click here**](https://discord.gg/tny494zXfn)
