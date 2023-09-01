@@ -28,6 +28,10 @@ repositories {
         <url>https://oss.sonatype.org/content/repositories/snapshots</url>
     </repository>
     <repository>
+        <id>sonatype-central</id>
+        <url>https://oss.sonatype.org/content/repositories/central</url>
+    </repository>
+    <repository>
         <id>jitpack.io</id>
         <url>https://jitpack.io</url>
     </repository>
