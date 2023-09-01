@@ -1,9 +1,8 @@
-### Table of Content:
-> * [**Key Information**](#key-information)
-> * [**Installation**](#installation)
-> * [**Bot Setup**](#bot-setup)
-> * [**Plugin Setup**](#plugin-setup)
-> * [**Route Setup**](#setting-and-removing-channel-routes)
+### Table of Contents:
+> * [**Requirements**](#requirements)
+> * [**Repositories**](#repositories)
+> * [**Dependencies**](#dependencies)
+> * [**Deeper Dive**](#deeper_dive)
 
 # Requirements
 * You will need to have basic programming knowledge.
@@ -48,7 +47,7 @@ dependencies {
 ```
 
 Spigot Core (for development with Spigot):
-###### Note: The Spigot Core has the Main Core inside it -- so you don't need to add the Main Core as a dependency.
+###### Note: The Spigot Core has the Main Core inside it (so you don't need to add the Main Core as a dependency).
 ```groovy
 dependencies {
     compileOnly "net.luckperms:api:5.4"
@@ -70,9 +69,8 @@ Main Core:
     <dependency>
         <groupId>com.github.Streamline-Essentials.StreamlineCore</groupId>
         <artifactId>StreamlineCore-API</artifactId>
-        <!-- Replace with latest version number found at: -->
-        <!-- https://github.com/Streamline-Essentials/StreamlineCore/releases/latest -->
-        <version>2.0.3.5</version>
+        <version>main-SNAPSHOT</version>
+        <scope>provided</scope>
     </dependency>
 </dependencies>
 ```
@@ -90,11 +88,11 @@ Spigot Core (for development with Spigot):
     <dependency>
         <groupId>com.github.Streamline-Essentials.StreamlineCore</groupId>
         <artifactId>StreamlineCore-BAPI</artifactId>
-        <!-- Replace version with latest version number found at: -->
-        <!-- https://github.com/Streamline-Essentials/StreamlineCore/releases/latest -->
-        <version>2.0.3.5</version>
+        <version>main-SNAPSHOT</version>
+        <scope>provided</scope>
     </dependency>
 </dependencies>
 ```
 # Deeper Dive
 * Clone the ``ExampleModule`` repository from [here](https://github.com/Streamline-Essentials/ExampleModule).
+* More will be added later!
