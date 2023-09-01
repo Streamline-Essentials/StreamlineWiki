@@ -2,7 +2,7 @@
 > * [**Requirements**](#requirements)
 > * [**Repositories**](#repositories)
 > * [**Dependencies**](#dependencies)
-> * [**Deeper Dive**](#deeper_dive)
+> * [**Deeper Dive**](#deeper-dive)
 
 # Requirements
 * You will need to have basic programming knowledge.
